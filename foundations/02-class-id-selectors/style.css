@@ -1,0 +1,19 @@
+.normal-class {
+  background-color: pink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.special-class {
+  font-size: 24px;
+}
+
+#some-id {
+  color: blue;
+  font-size: 36px;
+}
+
+#different-id {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
