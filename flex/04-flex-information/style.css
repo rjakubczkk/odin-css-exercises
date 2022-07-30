@@ -24,3 +24,25 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+#main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+}
+
+#plants-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 52px;
+}
+
+.plant-wrapper {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 200px;
+  align-items: center;
+  text-align: center;
+}
